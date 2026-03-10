@@ -65,7 +65,7 @@ source ~/.bashrc
 2. 注册账号并创建 API Key
 3. 复制 API Key 到 `config.py`
 
-**飞书应用**:
+**飞书应用**:可以参考openclaw安装教程中的申请机器人
 1. 访问 https://open.feishu.cn/app
 2. 创建企业自建应用
 3. 获取 App ID 和 App Secret
