@@ -1,0 +1,12 @@
+name: lab-manager
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - fastapi==0.109.0
+    - uvicorn==0.27.0
+    - psutil==5.9.8
+    - pydantic==2.5.3
+    - openai==1.12.0
